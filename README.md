@@ -1,10 +1,11 @@
 # sample-docker-flask
 This is a sample flask app deployed using docker
 
-![Docker](/assets/Docker.jpg "Docker")
+<!-- ![Docker](/assets/Docker.jpg "Docker") -->
 <img width="50%" alt="Docker" src="/assets/Docker.jpg">
 
-![Flask](/assets/Flask.png "Flask")
+<!-- ![Flask](/assets/Flask.png "Flask") -->
+<img width="50%" alt="Flask" src="/assets/Flask.png">
 
 ## 1. Build -> 
 ```
