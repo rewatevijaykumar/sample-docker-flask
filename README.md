@@ -7,7 +7,7 @@ docker -t <docker-image-name> .
 docker -t welcome-app .
 ```
 
-## 2. check dokcer images -> 
+## 2. Check docker images -> 
 ```
 docker images
 ```
