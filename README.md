@@ -1,4 +1,5 @@
-# sample-docker-flask
+# Sample Docker Flask
+
 This is a sample flask app deployed using docker
 
 <!-- ![Docker](/assets/Docker.jpg "Docker") -->
