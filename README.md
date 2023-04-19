@@ -2,6 +2,7 @@
 This is a sample flask app deployed using docker
 
 ![Docker](/assets/Docker.jpg "Docker")
+<img width="50%" alt="Docker" src="/assets/Docker.jpg">
 
 ![Flask](/assets/Flask.png "Flask")
 
